@@ -24,7 +24,7 @@ I am seeking entry-level Financial Analyst, Risk Analyst, or Business Intelligen
 ---
 
 ## Resume
-[Download Resume](resume.pdf)
+[Download Resume] https://github.com/zbenjamin-1/analytics-portfolio/raw/main/Document%201.pdf
 
 ---
 
